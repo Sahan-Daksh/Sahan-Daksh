@@ -19,7 +19,7 @@ I'm proficient in various technologies and tools, including:
 - 📱 **Mobile App Development:** [Android Studio, Flutter]
 - 🛢️ **Databases:** [MySQL]
 - 🧰 **Development Tools:** [Visual Studio Code, Git]
-- 🌍 **Other:** [Oracle, TensorFlow]
+- 🌍 **Other:** [Firebase, Oracle, TensorFlow]
 
 ## 🌟 GitHub Stats
 
