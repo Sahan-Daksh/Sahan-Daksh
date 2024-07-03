@@ -30,7 +30,7 @@ I'm proficient in various technologies and tools, including:
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or simply chat about tech. You can find me on:
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/sahan-dakshitha45)
-- 📸 [Instagram](https://www.instagram.com/sahan_daksh45/)
+- 📸 [Instagram](https://www.instagram.com/sahan_daksh._/)
 - 🐦 [Twitter](https://twitter.com/DakshithaSahan)
   
 
