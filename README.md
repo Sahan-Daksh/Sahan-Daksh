@@ -23,7 +23,7 @@ I'm proficient in various technologies and tools, including:
 
 ## 🌟 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SahanDakshitha45)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahan-Daksh)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect
 
