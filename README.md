@@ -24,6 +24,7 @@ I'm proficient in various technologies and tools, including:
 ## 🌟 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sahan-Daksh)](https://git.io/streak-stats)
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Daksh"/>
 
 ## 🤝 Let's Connect
