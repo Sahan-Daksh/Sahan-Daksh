@@ -27,9 +27,9 @@ I'm proficient in various technologies and tools, including:
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Sahan-Daksh&theme=dark" />
   </a>
-  <a href="https://github.com/Sahan-Daksh/github-readme-stats">
+<!--   <a href="https://github.com/Sahan-Daksh/github-readme-stats">
     <img src="https://github-readme-stats-theta-eight-76.vercel.app/api?username=Sahan-Daksh&theme=dark" />
-  </a>
+  </a> -->
   <br/>
   <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=Sahan-Daksh&theme=dark" />
 </div>
