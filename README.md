@@ -23,10 +23,16 @@ I'm proficient in various technologies and tools, including:
 
 ## 🌟 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahan-Daksh&theme=dark)](https://git.io/streak-stats)
-[![Sahan's GitHub stats](https://github-readme-stats-theta-eight-76.vercel.app/api?username=Sahan-Daksh&theme=dark)](https://github.com/Sahan-Daksh/github-readme-stats)
-<br/>
-<img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=Sahan-Daksh&theme=dark"/>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Sahan-Daksh&theme=dark" />
+  </a>
+  <a href="https://github.com/Sahan-Daksh/github-readme-stats">
+    <img src="https://github-readme-stats-theta-eight-76.vercel.app/api?username=Sahan-Daksh&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=Sahan-Daksh&theme=dark" />
+</div>
 
 ## 🤝 Let's Connect
 
