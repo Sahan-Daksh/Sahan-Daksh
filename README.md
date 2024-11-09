@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Undergraduate wi
 I'm proficient in various technologies and tools, including:
 
 - 💻 **Programming Languages:** [Python, Java, JavaScript]
-- 🌐 **Web Development:** [HTML/CSS, React, Next.js, Redux, Tailwind CSS]
+- 👨‍💻 **Front-End Development:** [HTML/CSS, React, Next.js, Redux, Tailwind CSS]
+- 🌐 **Back-End Development:** [Node.js, Express.js, Spring Boot]
 - 📱 **Mobile App Development:** [Android Studio, Flutter]
 - 🛢️ **Databases:** [MySQL, MongoDB]
 - 🧰 **Development Tools:** [Visual Studio Code, Git]
