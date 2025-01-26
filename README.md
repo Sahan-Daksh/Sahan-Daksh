@@ -18,7 +18,7 @@ I'm proficient in various technologies and tools, including:
 - 👨‍💻 **Front-End Development:** [HTML/CSS, React, Next.js, Angular, Redux, Tailwind CSS]
 - 🌐 **Back-End Development:** [Node.js, Express.js, Spring Boot, Flask, FastAPI]
 - 📱 **Mobile App Development:** [Flutter, React Native]
-- 🛢️ **Databases:** [MySQL, MongoDB]
+- 🛢️ **Databases:** [MySQL, MongoDB, Redis]
 - 🧰 **Development Tools:** [Visual Studio Code, Git]
 - 🌍 **Other:** [Docker, Kubernetes, Firebase, Supabase, Oracle, TensorFlow]
 
