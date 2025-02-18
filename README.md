@@ -20,7 +20,7 @@ I'm proficient in various technologies and tools, including:
 - 📱 **Mobile App Development:** [Flutter, React Native]
 - 🛢️ **Databases:** [MySQL, MongoDB, Redis]
 - 🧰 **Development Tools:** [Visual Studio Code, Git]
-- 🌍 **Other:** [Docker, Kubernetes, Firebase, Supabase, Oracle, TensorFlow]
+- 🌍 **Other:** [AWS, Docker, Kubernetes, Firebase, Supabase, Oracle, TensorFlow]
 
 ## 🌟 GitHub Stats
 
