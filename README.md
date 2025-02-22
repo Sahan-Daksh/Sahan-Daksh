@@ -41,7 +41,6 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/sahan-dakshitha45)
 - 📸 [Instagram](https://www.instagram.com/sahan_daksh._/)
-- 🐦 [Twitter](https://twitter.com/DakshithaSahan)
   
 
 Let's build amazing things together! 🚀
